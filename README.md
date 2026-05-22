@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I am Parth, budding fullstack developer.<br>Currently learning MERN stack, also typescript.<br>Have experience in Python + FastAPI.<br>
 Contact me : parthrc00@gmail.com <br>
-My website : [parthrc.com](https://parthc.com)
+My website : [parthc.com](https://parthc.com)
 
 
 ## 🌐 Socials:
